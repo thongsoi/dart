@@ -1,0 +1,27 @@
+{
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true,
+    "editor.fontSize": 13,
+    "workbench.colorTheme": "Default Dark+",
+    "go.toolsManagement.autoUpdate": true,
+    "git.confirmSync": false,
+    "window.customTitleBarVisibility": "windowed",
+    "makefile.configureOnOpen": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "code-runner.runInTerminal": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    }
+}
